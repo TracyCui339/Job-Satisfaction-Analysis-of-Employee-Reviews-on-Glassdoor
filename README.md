@@ -1,6 +1,7 @@
 # Team Bronze Miner
  Information Mining & Analysis Group project
-##The code of the project is divided into five parts.
+ 
+ ## The code of the project is divided into five parts.
 
 1. EDA files include descriptive analysis of the data, correlation analysis and information visualizations.
 2. Numerial Mining includes models for numerical variables such as linear regression, logistic regression, SVM, and Random Forest.
